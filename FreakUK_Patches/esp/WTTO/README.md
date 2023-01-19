@@ -1,2 +1,2 @@
 # FO4
-Storage of all FO4 mods
+West-Tek Tactical Optics (WTTO) Patches
